@@ -13,4 +13,4 @@ In this project, I assumed to work as BI Analyst for Waggle, a startup company t
 ### THe drill through page, where you can drill from the family name details (by right-clicking)
 ![Drill Through Summary](https://user-images.githubusercontent.com/71933300/182041133-963373a9-ab23-400b-a9f6-0e6d6220276a.jpg)
 
-Please see the report here: [Waggle-Sendy-Project](https://app.powerbi.com/view?r=eyJrIjoiMjI4NDMxZjktYjY4MS00MjZkLTkwMGQtMTA5ODY2NDBmZjUyIiwidCI6IjFhNGNiYmNlLWE5ZmItNGQyYS05MTU3LTBlMzlhNWNhMjc1MSIsImMiOjh9)
+Please see the report here: [Waggle-Sendy-Project](https://app.powerbi.com/view?r=eyJrIjoiYmUwODRhN2YtN2RmYi00MjE3LTg0ODAtYTNiODI2ZjE3ZWQwIiwidCI6IjFhNGNiYmNlLWE5ZmItNGQyYS05MTU3LTBlMzlhNWNhMjc1MSIsImMiOjh9)
