@@ -1,9 +1,7 @@
 # Waggle-Power-BI-Report
 A power BI project as part of Udacity Nanodegree program
 
-In this project, I assumed to work as BI Analyst for Waggle, a startup company that focuses on making tracking devices for pets. Their products are called Lapdog and Lapcat. This project requires us to create a visualization from the business questions arised. 
-
-The project results can be seen in image below with interactive content, however as I still dont have business or working email by the time of working this project, Power BI service and its interactive functionality cannot be seen or activated yet. I will update once ready. 
+In this project, I assumed to work as BI Analyst for Waggle, a startup company that focuses on making tracking devices for pets. Their products are called Lapdog and Lapcat. This project requires us to create a visualization from the business questions arised. The project results can be seen in image below with interactive content as per link on the bottom. 
 
 ## The Home Page (1st page where business questions are answered in outline)
 ![HOME page ](https://user-images.githubusercontent.com/71933300/182041071-eff7d9b3-b988-49ec-9d59-1d27a8d35f08.jpg)
@@ -14,3 +12,5 @@ The project results can be seen in image below with interactive content, however
 
 ### THe drill through page, where you can drill from the family name details (by right-clicking)
 ![Drill Through Summary](https://user-images.githubusercontent.com/71933300/182041133-963373a9-ab23-400b-a9f6-0e6d6220276a.jpg)
+
+Please see the report here: [Waggle-Sendy-Project](https://app.powerbi.com/links/-Xsdsixm4y?ctid=1a4cbbce-a9fb-4d2a-9157-0e39a5ca2751&pbi_source=linkShare&bookmarkGuid=45e29088-a352-4010-95fd-5d81e535fde8)
