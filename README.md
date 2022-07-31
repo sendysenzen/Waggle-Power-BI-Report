@@ -6,7 +6,7 @@ In this project, I assumed to work as BI Analyst for Waggle, a startup company t
 The project results can be seen in image below with interactive content, however as I still dont have business or working email by the time of working this project, Power BI service and its interactive functionality cannot be seen or activated yet. I will update once ready. 
 
 ## The Home Page (1st page where business questions are answered in outline)
-(![HOME page ](https://user-images.githubusercontent.com/71933300/182041071-eff7d9b3-b988-49ec-9d59-1d27a8d35f08.jpg)
+![HOME page ](https://user-images.githubusercontent.com/71933300/182041071-eff7d9b3-b988-49ec-9d59-1d27a8d35f08.jpg)
 
 ![Pets Page](https://user-images.githubusercontent.com/71933300/182041099-bc44e4dc-9a1b-4b60-96ae-df34484e7d89.jpg)
 
